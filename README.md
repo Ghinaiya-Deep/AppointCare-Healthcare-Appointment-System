@@ -114,7 +114,7 @@ appointment_system
 • Configure SMTP settings inside PHPMailer-master/src/PHPMailer.php.
 • Use it in booking and cancellation scripts to send confirmation emails.
 
-**🎨 Frontend Design Highlights**
+**🎨 Frontend Design Highlights:**
 • HTML5 Semantic Tags (<header>, <nav>, <section>, <footer>)
 • CSS3 Transitions & Hover Effects
 • Responsive Layout using Flexbox and Media Queries
