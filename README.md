@@ -165,6 +165,7 @@ AppointCare/
 * Mapped all outcomes to **WDE511MJ** course objectives.
 
 ---
+
 ## 💻 **Browser Support**
 
 AppointCare works seamlessly on:
@@ -174,6 +175,8 @@ AppointCare works seamlessly on:
 * Microsoft Edge ✅
 * Safari ✅
 * Opera ✅
+
+---
 
 ## 🔮 Future Enhancements
 
