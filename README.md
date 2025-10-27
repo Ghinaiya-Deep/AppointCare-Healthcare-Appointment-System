@@ -1,8 +1,8 @@
-# 🩺 AppointCare — Healthcare Appointment Management System
+# 🩺 AppointCare — Healthcare Appointment  System
 
 ## 📘 Overview
 
-**AppointCare** is a full-stack hospital appointment management system built using **PHP, MySQL, HTML5, CSS3, and XAMPP**.
+**AppointCare** is a full-stack hospital appointment  system built using **PHP, MySQL, HTML5, CSS3, and XAMPP**.
 It provides two interfaces — one for **Patients** to book/cancel appointments and submit feedback, and another for **Admins** to manage doctors, departments, and appointments.
 
 The project is **fully responsive**, follows **semantic HTML5 standards**, includes **form validation**, **hover effects**, and **email notifications** via **PHPMailer**.
